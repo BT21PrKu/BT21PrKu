@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prachi Kumar</h1>
 <h3 align="center">I am a Btech student pursuing computer engineering.</h3>
 
-- 🌱 I’m currently learning **Machine learning and Deep learning**
+- 🌱 I’m currently learning **Machine learning and Data Science**
 
 - 💬 Ask me about **C,C++,Python, R programming**
 
