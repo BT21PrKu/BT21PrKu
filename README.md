@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine learning and Data Science**
 
-- 💬 Ask me about **C,C++,Python, R programming**
+- 💬 Ask me about **C,C++,Python,MySQL,PowerBI,ML,NLP,AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
